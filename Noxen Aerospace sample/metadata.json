@@ -1,0 +1,64 @@
+{
+  "brand_statement": "100% SYNTHETIC — NO REAL DATA USED",
+  "product": "Noxen Free Sample — full-schema preview (not a paid-tier export)",
+  "scale_tier": "SHOWCASE_FREE",
+  "table_count": 18,
+  "total_row_count": 3798,
+  "tables": {
+    "Airline": {
+      "row_count": 4
+    },
+    "Aircraft_Model": {
+      "row_count": 4
+    },
+    "Engine_Model": {
+      "row_count": 4
+    },
+    "Airport": {
+      "row_count": 15
+    },
+    "Fault_Code": {
+      "row_count": 49
+    },
+    "Part": {
+      "row_count": 156
+    },
+    "Supplier": {
+      "row_count": 4
+    },
+    "Aircraft": {
+      "row_count": 2
+    },
+    "Technician": {
+      "row_count": 15
+    },
+    "Flight": {
+      "row_count": 12
+    },
+    "Weather": {
+      "row_count": 721
+    },
+    "Engine": {
+      "row_count": 4
+    },
+    "Flight_Segment": {
+      "row_count": 7
+    },
+    "Sensor_Reading": {
+      "row_count": 1576
+    },
+    "Failure": {
+      "row_count": 202
+    },
+    "Maintenance_Event": {
+      "row_count": 202
+    },
+    "Work_Order": {
+      "row_count": 356
+    },
+    "Inventory": {
+      "row_count": 465
+    }
+  },
+  "note": "This is an abridged manifest (table names + row counts only). Every paid order includes a full data dictionary (every column defined: name, type, unit, valid range) and methodology notes, as PDF documents — see the sample cover PDF for a preview."
+}

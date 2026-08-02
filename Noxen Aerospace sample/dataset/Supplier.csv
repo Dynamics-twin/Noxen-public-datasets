@@ -1,0 +1,5 @@
+supplier_id,name,country,lead_time_days_avg,rating
+SU-001,Meridian Parts Logistics,CENTRALIA,12.0,3.8997636323144005
+SU-002,Boreal Aerocomponents,NORLANDIA,18.0,4.262059477523843
+SU-003,SynAero Global Supply,SYNTHONIA,7.0,3.847291096391126
+SU-004,Austral Rotables Exchange,AUSTRALTERRA,22.0,4.16486222654702

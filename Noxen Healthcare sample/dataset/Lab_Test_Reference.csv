@@ -1,0 +1,12 @@
+lab_test_id,name,unit,reference_low,reference_high,linked_category
+4548-4,Hemoglobin A1c,%,4.0,5.6,t2d
+2345-7,Glucose,mg/dL,70.0,99.0,t2d
+2160-0,Creatinine,mg/dL,0.6,1.2,ckd
+6690-2,White blood cell count,10*3/uL,4.0,11.0,sepsis
+1988-5,C-reactive protein,mg/L,0.0,10.0,sepsis
+10839-9,Troponin I,ng/L,0.0,14.0,cvd
+2951-2,Sodium,mmol/L,136.0,145.0,
+2823-3,Potassium,mmol/L,3.5,5.1,
+718-7,Hemoglobin,g/dL,12.0,17.0,
+777-3,Platelet count,10*3/uL,150.0,400.0,
+2028-9,Lactate,mmol/L,0.5,2.0,sepsis

@@ -1,0 +1,2 @@
+patient_id,encounter_id,date_of_death,primary_diagnosis_at_death
+PAT-0000008,ENC-00000009,2026-07-22,Severe sepsis with septic shock

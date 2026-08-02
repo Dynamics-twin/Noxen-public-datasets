@@ -1,0 +1,36 @@
+diagnosis_id,encounter_id,patient_id,icd10_code,icd10_description,diagnosis_rank,present_on_admission
+DX-00000001,ENC-00000001,PAT-0000001,R07.9,"Chest pain, unspecified",PRINCIPAL,True
+DX-00000002,ENC-00000001,PAT-0000001,I11.9,Hypertensive heart disease without heart failure,SECONDARY,True
+DX-00000003,ENC-00000001,PAT-0000001,E11.22,Type 2 diabetes mellitus with diabetic chronic kidney disease,SECONDARY,True
+DX-00000004,ENC-00000001,PAT-0000001,E66.9,"Obesity, unspecified",SECONDARY,True
+DX-00000005,ENC-00000002,PAT-0000002,N39.0,"Urinary tract infection, site not specified",PRINCIPAL,True
+DX-00000006,ENC-00000003,PAT-0000003,E66.01,Morbid (severe) obesity due to excess calories,PRINCIPAL,True
+DX-00000007,ENC-00000003,PAT-0000003,I11.9,Hypertensive heart disease without heart failure,SECONDARY,True
+DX-00000008,ENC-00000004,PAT-0000004,Z00.00,Encounter for general adult medical examination,PRINCIPAL,True
+DX-00000009,ENC-00000004,PAT-0000004,I10,Hypertensive heart disease without heart failure,SECONDARY,True
+DX-00000010,ENC-00000005,PAT-0000005,S72.001A,"Fracture of unspecified part of neck of right femur, initial encounter",PRINCIPAL,True
+DX-00000011,ENC-00000006,PAT-0000006,F32.9,"Major depressive disorder, single episode, unspecified",PRINCIPAL,True
+DX-00000012,ENC-00000007,PAT-0000007,F32.9,"Major depressive disorder, single episode, unspecified",PRINCIPAL,True
+DX-00000013,ENC-00000008,PAT-0000007,S72.001A,"Fracture of unspecified part of neck of right femur, initial encounter",PRINCIPAL,True
+DX-00000014,ENC-00000009,PAT-0000008,R65.21,Severe sepsis with septic shock,PRINCIPAL,True
+DX-00000015,ENC-00000010,PAT-0000009,E66.01,Morbid (severe) obesity due to excess calories,PRINCIPAL,True
+DX-00000016,ENC-00000010,PAT-0000009,E66.9,"Obesity, unspecified",SECONDARY,True
+DX-00000017,ENC-00000011,PAT-0000010,J06.9,"Acute upper respiratory infection, unspecified",PRINCIPAL,True
+DX-00000018,ENC-00000012,PAT-0000011,R65.21,Severe sepsis with septic shock,PRINCIPAL,True
+DX-00000019,ENC-00000012,PAT-0000011,E66.01,Morbid (severe) obesity due to excess calories,SECONDARY,True
+DX-00000020,ENC-00000012,PAT-0000011,I63.9,"Cerebral infarction, unspecified",SECONDARY,True
+DX-00000021,ENC-00000012,PAT-0000011,E11.22,Type 2 diabetes mellitus with diabetic chronic kidney disease,SECONDARY,False
+DX-00000022,ENC-00000013,PAT-0000012,F32.9,"Major depressive disorder, single episode, unspecified",PRINCIPAL,True
+DX-00000023,ENC-00000013,PAT-0000012,I11.9,Essential (primary) hypertension,SECONDARY,False
+DX-00000024,ENC-00000014,PAT-0000012,I10,Essential (primary) hypertension,PRINCIPAL,True
+DX-00000025,ENC-00000014,PAT-0000012,I11.9,Hypertensive heart disease without heart failure,SECONDARY,True
+DX-00000026,ENC-00000015,PAT-0000013,F32.9,"Major depressive disorder, single episode, unspecified",PRINCIPAL,True
+DX-00000027,ENC-00000015,PAT-0000013,I11.9,Essential (primary) hypertension,SECONDARY,True
+DX-00000028,ENC-00000016,PAT-0000014,E66.9,"Obesity, unspecified",PRINCIPAL,True
+DX-00000029,ENC-00000016,PAT-0000014,I11.9,Hypertensive heart disease without heart failure,SECONDARY,True
+DX-00000030,ENC-00000016,PAT-0000014,E66.01,Morbid (severe) obesity due to excess calories,SECONDARY,False
+DX-00000031,ENC-00000017,PAT-0000015,S72.001A,"Fracture of unspecified part of neck of right femur, initial encounter",PRINCIPAL,True
+DX-00000032,ENC-00000017,PAT-0000015,I10,Hypertensive heart disease without heart failure,SECONDARY,True
+DX-00000033,ENC-00000017,PAT-0000015,E11.65,Type 2 diabetes mellitus with hyperglycemia,SECONDARY,False
+DX-00000034,ENC-00000018,PAT-0000016,S72.001A,"Fracture of unspecified part of neck of right femur, initial encounter",PRINCIPAL,True
+DX-00000035,ENC-00000018,PAT-0000016,E66.01,Morbid (severe) obesity due to excess calories,SECONDARY,False

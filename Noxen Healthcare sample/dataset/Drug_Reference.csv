@@ -1,0 +1,16 @@
+drug_id,name,linked_category
+29046,Lisinopril,htn
+866924,Metformin,t2d
+83367,Atorvastatin,cvd
+4603,Furosemide,cvd
+1191,Aspirin,cvd
+274783,Insulin glargine,t2d
+723,Amoxicillin,
+435,Albuterol,respiratory
+7646,Omeprazole,
+10582,Levothyroxine,
+11289,Warfarin,cvd
+6918,Metoprolol,htn
+11124,Vancomycin,sepsis
+7512,Norepinephrine,sepsis
+161,Acetaminophen,

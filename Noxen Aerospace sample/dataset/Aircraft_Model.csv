@@ -1,0 +1,5 @@
+aircraft_model_id,model_code,manufacturer,category,mtow_kg,typical_seats,wingspan_m,engine_count
+AM-001,SYN-NB1,SynAero Industries,NARROWBODY,79000.0,180,35.8,2
+AM-002,SYN-NB2,SynAero Industries,NARROWBODY,88000.0,210,36.0,2
+AM-003,SYN-WB1,SynAero Industries,WIDEBODY,249000.0,310,60.3,2
+AM-004,SYN-RJ1,MeridianJet Corp,REGIONAL,38000.0,90,27.4,2

@@ -1,0 +1,6 @@
+payer_plan_id,name,payer_type
+PYR-MEDICARE,Medicare,Medicare
+PYR-MEDICAID,Medicaid,Medicaid
+PYR-BCBS,Blue Cross Blue Shield PPO,Private
+PYR-UHC,UnitedHealthcare Choice,Private
+PYR-SELF,Self-Pay,Self-Pay

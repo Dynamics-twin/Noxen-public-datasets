@@ -1,0 +1,50 @@
+fault_code_id,code,ata_chapter,description,severity_class,typical_system
+FC-00001,ATA21-001,21,Anomalie structurelle mineure,MINOR,AIRFRAME
+FC-00002,ATA21-002,21,Corrosion détectée,MINOR,AIRFRAME
+FC-00003,ATA21-003,21,Jeu excessif constaté,MINOR,AIRFRAME
+FC-00004,ATA24-004,24,Disjoncteur déclenché de façon répétée,CRITICAL,ELECTRICAL
+FC-00005,ATA24-005,24,Défaut d'isolement,MAJOR,ELECTRICAL
+FC-00006,ATA27-006,27,Anomalie structurelle mineure,MINOR,AIRFRAME
+FC-00007,ATA27-007,27,Corrosion détectée,MINOR,AIRFRAME
+FC-00008,ATA27-008,27,Jeu excessif constaté,MINOR,AIRFRAME
+FC-00009,ATA28-009,28,Anomalie structurelle mineure,MINOR,AIRFRAME
+FC-00010,ATA28-010,28,Corrosion détectée,MINOR,AIRFRAME
+FC-00011,ATA28-011,28,Jeu excessif constaté,MINOR,AIRFRAME
+FC-00012,ATA29-012,29,Chute de pression hydraulique,CRITICAL,HYDRAULIC
+FC-00013,ATA29-013,29,Fuite de fluide détectée,MINOR,HYDRAULIC
+FC-00014,ATA32-014,32,Anomalie structurelle mineure,MINOR,AIRFRAME
+FC-00015,ATA32-015,32,Corrosion détectée,MINOR,AIRFRAME
+FC-00016,ATA32-016,32,Jeu excessif constaté,MINOR,AIRFRAME
+FC-00017,ATA34-017,34,Perte de communication intermittente,MAJOR,AVIONICS
+FC-00018,ATA34-018,34,Erreur de calibration capteur,CRITICAL,AVIONICS
+FC-00019,ATA34-019,34,Message CFDS répétitif,CRITICAL,AVIONICS
+FC-00020,ATA45-020,45,Perte de communication intermittente,MAJOR,AVIONICS
+FC-00021,ATA45-021,45,Erreur de calibration capteur,MAJOR,AVIONICS
+FC-00022,ATA45-022,45,Message CFDS répétitif,CRITICAL,AVIONICS
+FC-00023,ATA49-023,49,Anomalie structurelle mineure,CRITICAL,AIRFRAME
+FC-00024,ATA49-024,49,Corrosion détectée,MAJOR,AIRFRAME
+FC-00025,ATA49-025,49,Jeu excessif constaté,MINOR,AIRFRAME
+FC-00026,ATA71-026,71,Perte de poussée signalée,CRITICAL,ENGINE
+FC-00027,ATA71-027,71,Dépassement de température,MAJOR,ENGINE
+FC-00028,ATA71-028,71,Vibration anormale,MAJOR,ENGINE
+FC-00029,ATA71-029,71,Fuite huile détectée,MINOR,ENGINE
+FC-00030,ATA72-030,72,Perte de poussée signalée,MINOR,ENGINE
+FC-00031,ATA72-031,72,Dépassement de température,MAJOR,ENGINE
+FC-00032,ATA72-032,72,Vibration anormale,MINOR,ENGINE
+FC-00033,ATA72-033,72,Fuite huile détectée,MINOR,ENGINE
+FC-00034,ATA73-034,73,Perte de poussée signalée,MINOR,ENGINE
+FC-00035,ATA73-035,73,Dépassement de température,MAJOR,ENGINE
+FC-00036,ATA73-036,73,Vibration anormale,MINOR,ENGINE
+FC-00037,ATA73-037,73,Fuite huile détectée,MINOR,ENGINE
+FC-00038,ATA77-038,77,Perte de poussée signalée,CRITICAL,ENGINE
+FC-00039,ATA77-039,77,Dépassement de température,MAJOR,ENGINE
+FC-00040,ATA77-040,77,Vibration anormale,MAJOR,ENGINE
+FC-00041,ATA77-041,77,Fuite huile détectée,CRITICAL,ENGINE
+FC-00042,ATA79-042,79,Perte de poussée signalée,MINOR,ENGINE
+FC-00043,ATA79-043,79,Dépassement de température,CRITICAL,ENGINE
+FC-00044,ATA79-044,79,Vibration anormale,MINOR,ENGINE
+FC-00045,ATA79-045,79,Fuite huile détectée,MINOR,ENGINE
+FC-00046,ATA80-046,80,Perte de poussée signalée,CRITICAL,ENGINE
+FC-00047,ATA80-047,80,Dépassement de température,MINOR,ENGINE
+FC-00048,ATA80-048,80,Vibration anormale,CRITICAL,ENGINE
+FC-00049,ATA80-049,80,Fuite huile détectée,MINOR,ENGINE

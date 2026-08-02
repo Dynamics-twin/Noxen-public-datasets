@@ -1,0 +1,3 @@
+aircraft_id,tail_number,msn,aircraft_model_id,airline_id,delivery_date,total_flight_hours,total_cycles,status
+AC-00001,ZZ-VVHA,MSN-900001,AM-003,AL-004,2024-04-29T15:27:59,9361.9,1440,ACTIVE
+AC-00002,ZZ-LARJ,MSN-900002,AM-004,AL-001,2001-11-17T15:27:59,58928.8,53571,ACTIVE

@@ -1,0 +1,103 @@
+{
+  "product": "Noxen Healthcare Engine",
+  "edition": "SAMPLE (gratuit)",
+  "sample_disclaimer": "Cet échantillon est fourni à titre illustratif uniquement. Il ne constitue PAS le livrable commercial réel et ne doit pas être utilisé comme tel.",
+  "disclaimer": "100% SYNTHETIC - NO REAL PATIENT DATA USED",
+  "generated_at_utc": "2026-07-31T08:50:23.865659+00:00",
+  "scale_tier": "SAMPLE_2000",
+  "seed": 42,
+  "n_patients_simulated": 16,
+  "window_days": 60,
+  "generation_elapsed_seconds": 0.2,
+  "tables": {
+    "Facility": {
+      "row_count": 1,
+      "column_count": 4,
+      "description": "Établissements de santé (référence, plafonnée)."
+    },
+    "Department": {
+      "row_count": 6,
+      "column_count": 5,
+      "description": "Services cliniques par établissement (référence, plafonnée)."
+    },
+    "Provider": {
+      "row_count": 36,
+      "column_count": 4,
+      "description": "Praticiens (référence, plafonnée)."
+    },
+    "Payer_Plan": {
+      "row_count": 5,
+      "column_count": 3,
+      "description": "Régimes d'assurance/payeurs (référence, plafonnée)."
+    },
+    "Drug_Reference": {
+      "row_count": 15,
+      "column_count": 3,
+      "description": "Référentiel médicamenteux (référence, plafonnée)."
+    },
+    "Lab_Test_Reference": {
+      "row_count": 11,
+      "column_count": 6,
+      "description": "Référentiel des tests de laboratoire (référence, plafonnée)."
+    },
+    "Patient": {
+      "row_count": 18,
+      "column_count": 11,
+      "description": "Un enregistrement par patient simulé, avec comorbidités corrélées à l'âge."
+    },
+    "Encounter": {
+      "row_count": 18,
+      "column_count": 14,
+      "description": "Rencontres/séjours (table pivot reliant patients, praticiens, diagnostics...)."
+    },
+    "Diagnosis": {
+      "row_count": 35,
+      "column_count": 7,
+      "description": "Diagnostics codés ICD-10 rattachés à une rencontre."
+    },
+    "Procedure": {
+      "row_count": 17,
+      "column_count": 7,
+      "description": "Actes médicaux rattachés à une rencontre."
+    },
+    "Vital_Signs": {
+      "row_count": 3612,
+      "column_count": 7,
+      "description": "Signes vitaux (HR/RR/SBP/DBP/Temp/SpO2) — table volumétrique principale, équivalent de Sensor_Reading côté aérospatiale."
+    },
+    "Lab_Result": {
+      "row_count": 122,
+      "column_count": 11,
+      "description": "Résultats de laboratoire rattachés à une rencontre."
+    },
+    "Medication": {
+      "row_count": 60,
+      "column_count": 12,
+      "description": "Prescriptions/administrations médicamenteuses."
+    },
+    "Allergy": {
+      "row_count": 12,
+      "column_count": 4,
+      "description": "Allergies déclarées par patient."
+    },
+    "Immunization": {
+      "row_count": 20,
+      "column_count": 4,
+      "description": "Vaccinations par patient."
+    },
+    "Billing_Claim": {
+      "row_count": 18,
+      "column_count": 8,
+      "description": "Factures/demandes de remboursement liées aux actes."
+    },
+    "Death": {
+      "row_count": 1,
+      "column_count": 4,
+      "description": "Décès survenus pendant une rencontre (sous-ensemble d'Encounter)."
+    }
+  },
+  "total_rows_all_tables": 4007,
+  "quality_injection": {
+    "note": "Des défauts de qualité réalistes (données manquantes, doublons, erreurs de codage, valeurs impossibles, etc.) sont injectés dans cet échantillon. Le détail des taux et les fichiers de vérité terrain (labels) ne sont fournis que dans la version commerciale."
+  }
+}
